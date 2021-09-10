@@ -12,6 +12,6 @@
 ### MSSV: 18520767
 ### Khóa: 13
 ### Ngành: Khoa học dữ liệu
-### Sở thích: Mua sắm, chụp ảnh,...
+### Sở thích: Đọc sách, vẽ,...
 ### Định hướng nghề nghiệp: Data Science, Data Analyst
 ### Liên hệ: 18520767@gm.uit.edu.vn
