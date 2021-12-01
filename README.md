@@ -1,17 +1,8 @@
 # CS114.M11
-## Sinh viên 1: 
-### Họ và Tên: Nguyễn Xuân Vinh
-### MSSV: 18521655
-### Khóa: 13
-### Ngành: Khoa học dữ liệu
-### Sở thích: Nghe nhạc, đọc truyện, chơi game,...
-### Định hướng nghề nghiệp: Data Science, Data Analyst
-### Liên hệ: github account NguyenXuanVinh2000
-## Sinh viên 2: 
-### Họ và Tên: Võ Kiều Hoa
-### MSSV: 18520767
-### Khóa: 13
-### Ngành: Khoa học dữ liệu
-### Sở thích: Đọc sách, vẽ,...
-### Định hướng nghề nghiệp: Data Science, Data Analyst
-### Liên hệ: 18520767@gm.uit.edu.vn
+Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM (UIT)
+# Danh sách thành viên
+
+|STT|Tên|MSSV|Khóa|Ngành|Sở thích|
+|:---|:---|:---:|:---|:---|:---:|
+|1|[Nguyễn Xuân Vinh](https://github.com/NguyenXuanVinh2000)|18521655|13|Khoa học dữ liệu|Nghe nhạc, đọc truyện,...|
+|2|[Võ Kiều Hoa](https://github.com/kieuhoavo)|18520767|13|Khoa học dữ liệu|Đọc sách, vẽ,...|
