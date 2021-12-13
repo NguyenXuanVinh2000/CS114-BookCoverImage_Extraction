@@ -1,4 +1,4 @@
-# CS114.M11 - Machien learning
+# CS114.M11 - Machine learning
 Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM (UIT)
 # Danh sách thành viên
 
